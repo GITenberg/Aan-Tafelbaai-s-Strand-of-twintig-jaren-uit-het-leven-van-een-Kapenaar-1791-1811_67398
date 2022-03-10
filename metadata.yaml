@@ -10,6 +10,9 @@ contributor:
     deathdate: 1946
     gutenberg_agent_id: '25490'
     url: http://www.gutenberg.org/2009/agents/25490
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: D'Arbez
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '49190'
     url: http://www.gutenberg.org/2009/agents/49190
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67398#Aan-Tafelbaai-s-Strand-of-twintig-jaren-uit-het-leven-van-een-Kapenaar-1791-1811
 gutenberg_issued: '2022-02-13'
 identifiers:
   gutenberg: '67398'
